@@ -30,6 +30,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sreevidya181&layout=compact)](https://github.com/Sreevidya181/github-readme-stats)
 
 
 ## 📈 Stats
