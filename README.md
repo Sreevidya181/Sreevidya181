@@ -1,12 +1,12 @@
 ## Hi , I am Sreevidya! Glad to see you here! 👋
 
 
-      Hi,I am Sreevidya! exploring my various interests.
-      I am a python and machine learning enthusiast. 
-      I am currently learning FrontEnd Development.
-      I just started exploring various open source projects,learning and contributing.
-      I am open to collaborate on FrontEnd projects and MachineLearning projects
-      and brainstorming various ideas. 
+      Hello! I am just a curious person exploring my interests.
+      I mostly code in python.
+      I am interested in machine learning , deep learning and front-end development.
+      I am currently learning about deeplearning.
+      I just started exploring various open source projects and contributing to them.
+      I am open to collaborate on interesting projects and brainstorming various ideas. 
       You can connect with me: 
  
 [![Linkedin Badge](https://img.shields.io/badge/-Sreevidya181-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Sreevidya181/)](https://www.linkedin.com/in/sreevidya-bagareddygari/)
