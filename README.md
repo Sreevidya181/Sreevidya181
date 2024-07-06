@@ -9,9 +9,9 @@
       I am open to collaborate on interesting projects and brainstorming various ideas. 
       You can connect with me: 
  
-[![Linkedin Badge](https://skillicons.dev/icons?i=linkedin)(https://skillicons.dev)&link=https://www.linkedin.com/in/Sreevidya181/)](https://www.linkedin.com/in/sreevidya-bagareddygari/)
-[![Gmail Badge](https://skillicons.dev/icons?i=gmail)(https://skillicons.dev)&logoColor=white&link=mailto:sreevidya811.com)](mailto:sreevidya811@gmail.com)
-[![Twitter Badge](https://skillicons.dev/icons?i=twitter)(https://skillicons.dev)&link=https://www.twitter.com/in/sreevidya181/)](https://www.twitter.com/in/sreevidya181/)
+[![Linkedin Badge](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sreevidya-bagareddygari/)
+[![Gmail Badge](https://skillicons.dev/icons?i=gmail)](mailto:sreevidya811@gmail.com)
+[![Twitter Badge](https://skillicons.dev/icons?i=twitter)](https://www.twitter.com/in/sreevidya181/)
 
 
 <img src="https://activity-graph.herokuapp.com/graph?username=Sreevidya181&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
