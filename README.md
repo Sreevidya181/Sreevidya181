@@ -11,7 +11,7 @@
  
 [![Linkedin Badge](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sreevidya-bagareddygari/)
 [![Gmail Badge](https://skillicons.dev/icons?i=gmail)](mailto:sreevidya811@gmail.com)
-[![Twitter Badge](https://skillicons.dev/icons?i=twitter)](https://www.twitter.com/in/sreevidya181/)
+[![Twitter Badge](https://skillicons.dev/icons?i=twitter)](https://x.com/sreevidya181)
 
 
 <img src="https://activity-graph.herokuapp.com/graph?username=Sreevidya181&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
