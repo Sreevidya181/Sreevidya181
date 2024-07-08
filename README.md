@@ -1,11 +1,11 @@
 ![Header](./github-header-image.png)
 
-Connect:
+## Connect:
 [![Linkedin Badge](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sreevidya-bagareddygari/)
 [![Gmail Badge](https://skillicons.dev/icons?i=gmail)](mailto:sreevidya811@gmail.com)
 [![Twitter Badge](https://skillicons.dev/icons?i=twitter)](https://x.com/sreevidya181)
 
-Skills:
+## Skills:
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,css,flask,git,html,css,md,opencv,p5js,py,pytorch,sklearn,vscode)](https://skillicons.dev)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sreevidya181&layout=compact)](https://github.com/Sreevidya181/github-readme-stats)
